@@ -19,4 +19,4 @@ if (xp < 1000) {
     nivel = "radiante";
 }
 
-console.log('a heroina de nome {nome} está no nivel de {nivel}')
+console.log(`A heroína de nome ${nome} está no nível de ${nivel}`);
